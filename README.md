@@ -1,4 +1,3 @@
-# Tanner
 
 I build automations, internal tools, browser extensions and desktop apps, and hand
 over the finished thing: software that runs on your machine, its source, and a
